@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "balmy-edition-412218",
+  "private_key_id": "23b704a50f5cddd6607f41bbe4c94071bbce9734",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDeIk1JWgSoWCoC\nnNB9i+/sxgK3JU+MEts6sKRKRN5tN8IZF4GUwgKLY4065GOoXJShwMoHquReavSL\nRYljVlugc/bPR/xvcrIMGFR/0LpLbK+/8lQfoCeFGdhbm/PuQz6u+QtqN3GjDfyU\nhFZHLEgbBa+6PukxgCSVYI/oYetwu1sxq9gVdEPzFfb1NA3QkPVQFqVT8QZocbG1\nRnV/TdNBYS6LdzYvniyALUWN2eC7zx7NXRAQFlgsGx6M4ML2UhZgyzy2cbx7gtX9\nTymm8h7DPlVkyg3LiNpCH5t8rGvKFyCLUlGEsVdNxT62P6xlaimR9V7otvBpq1mw\ndpdAer3BAgMBAAECggEAbpSi5t4iLW/eUfigra8pHDSii2vOgsusSTZAQxyvoa09\nOeKCxnwiaiN/3g5uMhUMhM2FhXWkRAB4hpBySXpnGKRB/IQ4fX6adfzyq8JLy1pq\nz2IiULAYnGD2XPxw3W6qWM5vyUuajXJcB88taDb6GkGlblD9I4BINfihCy0b2Lzu\nxpWrYvefu86ci94Q91xLUW2n+lF5CGUlVnRVaoBH2UJEqcLUiQNOTKDV4ovdAcb3\n03LAwZMG+uFd46iVLwB9g1W2kfeCCe5D/TzzhPljybKprzyxlfsah3/zSp14q5iN\n95oy408g0/Us2UNNyM3l9c7cQsZ1Wj9XkdZRYhtZlQKBgQDvRs5iRJJH6ii2pZr3\nKYWzuqmx4loXh4gmVFyZCQ4t7ARaZ3WRmn29mVmbq0C2jXYDwoyjjQYfOlLFCob/\ny9lzS0UAn3UXg0KULB6reEBPuEmRCiLnFXUimtQkRJjsxIVXGLRqDKiAbpSFwdri\npnY305R4snriMK44UC8cLFrW4wKBgQDtqMa8fI/CxhflPuc2Q4GIXQ4GlQWd1KF3\nY2FGIKCY8nIWC5NcyTr16cq02hYot25NhF8RdrDVRJwwoqLjLRAvXJctNQAEulp/\nStyK4Qc48Rb3zFNjfKAnhxKCAP5u63Im+su1qV/t5Lzp9kSTqlGGw3LsNan6xdkb\nf1przDQWCwKBgQCqEWSdmely7e70Ku7jIAMlBNaaVaz9LlrKC4opR7NpVmidrQ12\naR1YRofXSjhbyF4KPBxkHtcsGPM9k8byRvyOowAveibqiGQpFtbRv03Om8jGKzM1\nlh3Ec9G22X7sQp4Xkrqg6dBWQMKV83xVPkWmVl8gDpOi80DRS8TAPJJwSwKBgQC9\nQjCxnYhmlZYl64f5AJ1A2Mn4l+gXHmNPTgcC76y04C3WPHWn6GBZwUq55wrKdfkT\nJh0HLTv5OmAfowSQYSyIavXA/Hn9SeITiKxEtJspz2R5BXBKw85ObBRjDyOPdVQ8\nknBzRGSub/+5WXKXHYU7Cp6UWM/6cmBIs4xwV/gKrQKBgQCFucTUxyrePQ4ITs4t\nZHyd0wL8gHY/GKr+waxFtvTGTGvwkl4o6B3KUS337PxuHKrGqZZpsieelJqeJR7B\n4GUI9isIqur8dZB/G8gvG6KgLe90XiWhU+QOabr9Fmle79lNC3z1QY5ge68kxjYP\nL9VqU5y/T/qIuCjEnLHRV7svFw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatapplication@balmy-edition-412218.iam.gserviceaccount.com",
+  "client_id": "110303219911695468162",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatapplication%40balmy-edition-412218.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
